@@ -2,3 +2,4 @@
 * text=auto
 * linguist-vendored
 *.ShaderLab linguist-vendored=false
+*.C# linguist-vendored=true
