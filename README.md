@@ -3,7 +3,7 @@
 Created in just 45 hours, *Quantum Bot* is a procedural 3D platformer developed for the 2021 McGam Jam, where it was honored with the "Best Gameplay/Technical" award. As a small robot, players navigate through dynamically generated platforms, collecting buffs and debuffs, all while avoiding or utilizing spacetime-altering entities to achieve their objectives. This game explores the theme of impact at the micro level leading to macro changes, wrapped in engaging and unpredictable gameplay.
 It leverages Unity for its core gameplay mechanics, with Blender and Maya enriching the visual experience. 
 
-https://github.com/eleadufresne/Quantum-Bot/assets/74742695/6e3d6b4c-d1ee-4403-9ae4-2dd999543a3e
+![preview](https://github.com/eleadufresne/Quantum-Bot/assets/74742695/6e3d6b4c-d1ee-4403-9ae4-2dd999543a3e)
 
 ### Features
 
